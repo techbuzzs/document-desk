@@ -31,3 +31,7 @@ Vercel serves the generated `dist` directory.
 ## Credits
 
 Built by [Tech Buzzs](https://github.com/techbuzzs). Uses pdfjs-dist, pdf-lib, under their respective open source licenses.
+
+## Live website
+
+[Open document-desk](https://document-desk.vercel.app)
